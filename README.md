@@ -27,7 +27,7 @@ This project uses the **Diabetes Health Indicators Dataset** from Kaggle:
 .
 ├── README.md
 ├── data/
-│   └── raw/
+│   └── diabetes_012_health_indicators_BRFSS2015.csv
 ├── notebooks/
 │── diabetes_classification.ipynb
 ├── diabetes_classification_notebook.pdf
