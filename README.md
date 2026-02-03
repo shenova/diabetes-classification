@@ -30,7 +30,8 @@ This project uses the **Diabetes Health Indicators Dataset** from Kaggle:
 │   └── raw/
 ├── notebooks/
 │── diabetes_classification.ipynb
-└── final.pdf
+├── diabetes-classification-notebook.pdf
+└── final_report.pdf
 ```
 
 ## Methods
