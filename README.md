@@ -64,14 +64,13 @@ Special emphasis was placed on improving recall for underrepresented classes, pa
 git clone https://github.com/shenova/diabetes-classification.git
 cd aml-diabetes-classification
 ```
-
 2. Make sure you have the required Python libraries installed
 (NumPy, pandas, scikit-learn, imbalanced-learn, xgboost, matplotlib, seaborn, and Jupyter).
 
 3. Launch the notebook:
-   ```bash
-   jupyter notebook
-   ```
+```bash
+jupyter notebook
+```
 4. Open the following file:
 ```bash
 diabetes_classification.ipynb
