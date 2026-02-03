@@ -30,7 +30,7 @@ This project uses the **Diabetes Health Indicators Dataset** from Kaggle:
 │   └── raw/
 ├── notebooks/
 │── diabetes_classification.ipynb
-├── diabetes-classification-notebook.pdf
+├── diabetes_classification_notebook.pdf
 └── final_report.pdf
 ```
 
@@ -61,7 +61,7 @@ Special emphasis was placed on improving recall for underrepresented classes, pa
 
 ```bash
 git clone https://github.com/shenova/diabetes-classification.git
-cd aml-diabetes-classification
+cd diabetes-classification
 ```
 2. Make sure you have the required Python libraries installed
 (NumPy, pandas, scikit-learn, imbalanced-learn, xgboost, matplotlib, seaborn, and Jupyter).
