@@ -29,10 +29,8 @@ This project uses the **Diabetes Health Indicators Dataset** from Kaggle:
 ├── data/
 │   └── raw/
 ├── notebooks/
-│   ├── AML_Group_Project_Notebook.ipynb
-│   └── AML_Group_Project_Notebook.pdf
-└── reports/
-    └── AML_Final_Project_Report.pdf
+│── diabetes_classification.ipynb
+└── final.pdf
 ```
 
 ## Methods
